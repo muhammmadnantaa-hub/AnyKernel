@@ -424,7 +424,7 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print "-----------------------------------------------";
-ui_print " I'm Pro Dev                                   ";
+ui_print " KsuNext SuSFS V1.5.12 A16 ROM                                   ";
 ui_print "-----------------------------------------------";
 ui_print " _      _      _____ ____  ____  _     ____  ";
 ui_print "/ \  /|/ \  /|/__ __Y  _ \/_   \/ \ /|/  _ \ ";
